@@ -10,3 +10,5 @@ dependencies:
   - matplotlib
   - dill
   - pandas
+  - cufflinks-py
+prefix: C:\Users\test\anaconda3
