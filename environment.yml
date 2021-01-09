@@ -11,4 +11,7 @@ dependencies:
   - dill
   - pandas
   - cufflinks-py
+  - squarify
+  - palettable
+  - pycountry
 prefix: C:\Users\test\anaconda3
